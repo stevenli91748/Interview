@@ -102,3 +102,19 @@ B/S结构系统分析及设计经验，有构建可伸缩、可扩展、高可�
 # [Network 面试](https://github.com/stevenli91748/Network/blob/master/Interview.md)
 
 # [Database 面试](https://github.com/stevenli91748/Database/blob/master/Interview.md)
+
+# [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview.md)
+
+# [前端面试](https://github.com/stevenli91748/Frontend/blob/master/Interview.md)
+
+# [Message-Server-System 面试](https://github.com/stevenli91748/Message-Server-System/blob/master/Interview.md)
+
+# [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/interview.md)
+
+# [MicroService 面试](https://github.com/stevenli91748/MicroService/blob/master/interview.md)
+
+# [大数据面试](https://github.com/stevenli91748/Big-Data/blob/master/interview.md)
+
+# [Android-APP 面试](https://github.com/stevenli91748/Android-APP/blob/master/interview.md)
+
+# [IOS-APP 面试](https://github.com/stevenli91748/IOS-APP/blob/master/interview.md)
