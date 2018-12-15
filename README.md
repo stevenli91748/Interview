@@ -81,3 +81,18 @@ B/S结构系统分析及设计经验，有构建可伸缩、可扩展、高可�
 精通MVC/REST架构、模板引擎、中间件的原理与应用
 
 熟悉MySQL数据库，了解MySQL索引优化、查询优化和存储优化
+
+
+
+目录
+---
+
+JAVA 语言部分
+
+# [软件系统架构设计部分](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/Interview)
+
+
+
+
+
+
