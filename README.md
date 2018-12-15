@@ -89,15 +89,15 @@ B/S结构系统分析及设计经验，有构建可伸缩、可扩展、高可�
 目录
 ---
 
-# [数据结构与算法部分](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/README.md)
+# [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/README.md)
 
-# [JAVA 部分](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
+# [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
 
-# [软件系统架构设计部分](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/Interview)
+# [软件系统架构设计面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/Interview)
 
-# [项目工程化部分](https://github.com/stevenli91748/Engineering-special/blob/master/Interview.md)
+# [项目工程化面试](https://github.com/stevenli91748/Engineering-special/blob/master/Interview.md)
 
-# [分布式系统部分](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
+# [分布式系统面试](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
 
 # [系统设计面试](https://github.com/stevenli91748/System-Design/blob/master/Interview.md)
 
