@@ -88,6 +88,31 @@ B/S结构系统分析及设计经验，有构建可伸缩、可扩展、高可�
 
 目录
 ---
+通过面试题来看，可以看出目前互联网公司面试考点为：
+
+1.性能调优、算法数据机构
+
+2.高并发下数据安全、接口冪等性、原子性等
+
+3.分布式下协同、已经锁的处理
+
+4.数据库的分库分表、项目之间的垂直拆分
+
+出现频率高的技术点有：
+
+1.HashMap
+
+2.JVM
+
+3.Dubbo
+
+4.Mybatis
+
+5.Zookeeper
+
+6.http tcp/ip
+
+
 
 # [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/README.md)
 
