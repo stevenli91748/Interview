@@ -7,7 +7,7 @@
 - [Tiếng Việt - Vietnamese](translations/README-vi.md)
 - [Español](translations/README-es.md)
 - [Português Brasileiro](translations/README-ptbr.md)
-`this`
+-`this`
 </details>
 
 #  后端工程师的要求
