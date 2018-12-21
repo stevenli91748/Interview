@@ -155,3 +155,12 @@ B/S结构系统分析及设计经验，有构建可伸缩、可扩展、高可�
 # [Android-APP 面试](https://github.com/stevenli91748/Android-APP/blob/master/interview.md)
 
 # [IOS-APP 面试](https://github.com/stevenli91748/IOS-APP/blob/master/interview.md)
+
+
+
+
+# 有用的参考
+
+  * **《Cracking the Coding Interview（破解面试代码）》**，这是一本非常好的书，里面介绍了很多的编码问题和解决方案，同时还总结了解决这些问题需要了解的东西。
+  
+  * [CodeWars](https://www.codewars.com/) ，这个网站收集了大量的编程问题，你可以运用各种语言在浏览器里面去解决这些问题。最有用的部分是看看别的用户是如何解决同样问题的。这样你就可以看到解决相同问题的不同办法，并且学到你所选语言的新工具。
