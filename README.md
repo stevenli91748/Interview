@@ -171,3 +171,4 @@ B/S结构系统分析及设计经验，有构建可伸缩、可扩展、高可�
   * [CodeWars](https://www.codewars.com/) ，这个网站收集了大量的编程问题，你可以运用各种语言在浏览器里面去解决这些问题。最有用的部分是看看别的用户是如何解决同样问题的。这样你就可以看到解决相同问题的不同办法，并且学到你所选语言的新工具。
   
   * [GitHub 上有哪些值得推荐的开源电子书？](https://blog.csdn.net/LH806732/article/details/52770183)
+  * [面试准备目录](https://blog.csdn.net/nakiri_arisu/article/details/79475676)
