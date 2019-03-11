@@ -145,7 +145,7 @@ B/S结构系统分析及设计经验，有构建可伸缩、可扩展、高可�
 
 # [Database 面试](https://github.com/stevenli91748/Database/blob/master/Interview/README.md)
 
-# [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview.md)
+# [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
 
 # [前端面试](https://github.com/stevenli91748/Frontend/blob/master/Interview.md)
 
