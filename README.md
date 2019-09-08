@@ -128,6 +128,12 @@ B/S结构系统分析及设计经验，有构建可伸缩、可扩展、高可�
 6.http tcp/ip
 
 
+# 面试的范围
+
+ 
+
+
+
 
 # [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
 
