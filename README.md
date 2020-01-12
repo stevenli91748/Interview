@@ -121,7 +121,7 @@
     * [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)  
     * [Network 面试](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
     * 操作系统
-      * 操作系统原理
+      * [操作系统原理](https://github.com/stevenli91748/operation-system/blob/master/README.md)
       * [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
   * [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)   
   * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
