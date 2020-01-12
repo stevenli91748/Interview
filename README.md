@@ -128,6 +128,7 @@
 * 架构能力
   * 软架构
     * 前端架构
+      * [前端面试](https://github.com/stevenli91748/Frontend/blob/master/Interview/README.md)
     * 中台架构
     * 后端架构
       * [分布式系统架构](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
@@ -156,16 +157,13 @@
   * [消息队列](https://github.com/stevenli91748/Message-Server-System/blob/master/Interview/README.md)
   * [Database 面试](https://github.com/stevenli91748/Database/blob/master/Interview/README.md)   
   * 缓存
-    * Redis
-
+    * [Redis](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
 * 项目经验
+  * [系统设计面试](https://github.com/stevenli91748/System-Design/blob/master/Interview/README.md)
+  * [软件系统架构设计面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/Interview)
+  * [项目工程化面试](https://github.com/stevenli91748/Engineering-special/blob/master/Interview/README.md)
 
 
-
-# [软件系统架构设计面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/Interview)
-# [项目工程化面试](https://github.com/stevenli91748/Engineering-special/blob/master/Interview/README.md)
-# [系统设计面试](https://github.com/stevenli91748/System-Design/blob/master/Interview/README.md)
-# [前端面试](https://github.com/stevenli91748/Frontend/blob/master/Interview/README.md)
 # [大数据面试](https://github.com/stevenli91748/Big-Data/blob/master/Interview/README.md)
 # [Android-APP 面试](https://github.com/stevenli91748/Android-APP/blob/master/Interview/README.md)
 # [IOS-APP 面试](https://github.com/stevenli91748/IOS-APP/blob/master/Interview/README.md)
