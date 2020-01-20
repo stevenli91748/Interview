@@ -171,6 +171,14 @@
 
 
 
+
+
+
+# 视频
+
+* [逻辑思维训练教程（强烈推荐）](https://www.bilibili.com/video/av81590664/?spm_id_from=333.788.videocard.12)
+
+
 # 有用的参考
 
   * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
