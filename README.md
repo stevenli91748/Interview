@@ -177,7 +177,7 @@
 # 视频
 
 * [逻辑思维训练教程（强烈推荐）](https://www.bilibili.com/video/av81590664/?spm_id_from=333.788.videocard.12)
-
+* [Programming Interview](https://www.youtube.com/watch?v=TwjoIUdqByI&list=PLD629C50E1A85BF84)
 
 # 有用的参考
 
