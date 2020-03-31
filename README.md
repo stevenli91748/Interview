@@ -193,6 +193,7 @@
 * [Programming Interview](https://www.youtube.com/watch?v=TwjoIUdqByI&list=PLD629C50E1A85BF84)
 * [(english)美国资深硅谷招聘官分享：我在看简历时，究竟在注意什么？](https://www.youtube.com/watch?v=ZBM6_H2_mRE)
 * [(english)你的简历中的全栈开发项目，如何升级达到工业级?](https://www.youtube.com/watch?v=GkiQ8mhdTAA)
+* [Google面试官讲算法：如何吃透算法，获得Hire？](https://www.youtube.com/watch?v=JU2ZpooE9PM&t=6s)
 # 有用的参考
 
   * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
