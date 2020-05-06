@@ -195,7 +195,7 @@
 * [(english)你的简历中的全栈开发项目，如何升级达到工业级?](https://www.youtube.com/watch?v=GkiQ8mhdTAA)
 * [Google面试官讲算法：如何吃透算法，获得Hire？](https://www.youtube.com/watch?v=JU2ZpooE9PM&t=6s)
 # 有用的参考
-
+  * [Java面试Offer直通车--非常好的面试题](https://edu.csdn.net/course/detail/27126?utm_medium=distribute.pc_feed.226314&depth_1-utm_source=distribute.pc_feed.226314)
   * [学会了这些技术，你离BAT大厂不远了---技术架构路径图](https://blog.csdn.net/z694644032/article/details/100084287)
 
   * **《Cracking the Coding Interview（破解面试代码）》**，这是一本非常好的书，里面介绍了很多的编码问题和解决方案，同时还总结了解决这些问题需要了解的东西。
