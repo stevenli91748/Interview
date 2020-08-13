@@ -88,7 +88,7 @@
  
   * [Glassdoor](https://www.glassdoor.com/Salaries/index.htm)
 
-# resume的格式
+# [resume的格式](https://github.com/stevenli91748/Interview/blob/master/resume%E7%9A%84%E6%A0%BC%E5%BC%8F.md)
   
 
 # 面试的范围
