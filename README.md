@@ -88,6 +88,9 @@
  
   * [Glassdoor](https://www.glassdoor.com/Salaries/index.htm)
 
+# resume的格式
+  
+
 # 面试的范围
 
  拿到offer分为三个方面基础/项目/算法
@@ -115,19 +118,6 @@
 # 知识体系结构
 
 <a href="https://ibb.co/TBgMq5q"><img src="https://i.ibb.co/HDHTpQp/20190301154311294.gif" alt="20190301154311294" border="0"></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 * 基础知识
   * 计算机基础
@@ -180,12 +170,6 @@
 # [大数据面试](https://github.com/stevenli91748/Big-Data/blob/master/Interview/README.md)
 # [Android-APP 面试](https://github.com/stevenli91748/Android-APP/blob/master/Interview/README.md)
 # [IOS-APP 面试](https://github.com/stevenli91748/IOS-APP/blob/master/Interview/README.md)
-
-
-
-
-
-
 
 # 视频
 
