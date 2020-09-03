@@ -129,6 +129,7 @@
   * [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)   
   * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
 * 架构能力
+  * [架构设计&分布式&数据结构与算法面试题](https://thinkwon.blog.csdn.net/article/details/105870730)
   * 软架构
     * 前端架构
       * [前端面试](https://github.com/stevenli91748/Frontend/blob/master/Interview/README.md)
