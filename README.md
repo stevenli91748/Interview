@@ -123,6 +123,10 @@
 [芋道源码---面试题](http://svip.iocoder.cn/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/)|[Interviews---Your personal guide to Software Engineering technical interviews](https://github.com/kdn251/interviews)|
 ---|---|
 
+[如何高效面试](https://mp.weixin.qq.com/s/TuOMlzXRtDJSCgYGMPbpjw)|
+---|
+
+
 ---
 
 
