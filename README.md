@@ -126,6 +126,8 @@
 [如何高效面试](https://mp.weixin.qq.com/s/TuOMlzXRtDJSCgYGMPbpjw)|
 ---|
 
+[简历](https://github.com/stevenli91748/Interview/blob/master/%E7%AE%80%E5%8E%86/README.md)|
+---|
 
 ---
 
