@@ -88,7 +88,8 @@
  
   * [Glassdoor](https://www.glassdoor.com/Salaries/index.htm)
 
-# [resume的格式](https://github.com/stevenli91748/Interview/blob/master/resume%E7%9A%84%E6%A0%BC%E5%BC%8F.md)
+[resume的格式](https://github.com/stevenli91748/Interview/blob/master/resume%E7%9A%84%E6%A0%BC%E5%BC%8F.md)|[精益技术简历之道——改善技术简历的47条原则](https://www.kancloud.cn/digest/lean-technical-resume/62711)|
+---|---|
   
 
 # 面试的范围
