@@ -81,12 +81,16 @@
 </details>
 
 
+# 在线书籍
+
+* [程序员面试金典（第6版）](https://weread.qq.com/web/reader/bf93256071a122bebf98d95)
+
 目录
 ---
 
 # 找工作网站
  
-  * [Glassdoor](https://www.glassdoor.com/Salaries/index.htm)
+* [Glassdoor](https://www.glassdoor.com/Salaries/index.htm)
 
 [resume的格式](https://github.com/stevenli91748/Interview/blob/master/resume%E7%9A%84%E6%A0%BC%E5%BC%8F.md)|[精益技术简历之道——改善技术简历的47条原则](https://www.kancloud.cn/digest/lean-technical-resume/62711)|
 ---|---|
