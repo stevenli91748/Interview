@@ -146,7 +146,10 @@
       * [操作系统原理](https://github.com/stevenli91748/operation-system/blob/master/README.md)
       * [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
   * [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)   
-  * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
+  * [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic)
+  * [面向对象OOD面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1---OOD)
+    * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
+  * [系统设计面试  ](https://github.com/stevenli91748/System-Design)
 * 架构能力
   * [架构设计&分布式&数据结构与算法面试题](https://thinkwon.blog.csdn.net/article/details/105870730)
   * 软架构
