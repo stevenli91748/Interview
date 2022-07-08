@@ -195,6 +195,7 @@
 # [IOS-APP 面试](https://github.com/stevenli91748/IOS-APP/blob/master/Interview/README.md)
 
 # 视频
+* [你的全栈开发项目，如何升级达到工业级?](https://www.youtube.com/watch?v=GkiQ8mhdTAA)
 * [Backend Interview Questions And Answers ](https://www.youtube.com/watch?v=2cnEZb_3sd8&t=323s)
 * [逻辑思维训练教程（强烈推荐）](https://www.bilibili.com/video/av81590664/?spm_id_from=333.788.videocard.12)
 * [Programming Interview](https://www.youtube.com/watch?v=TwjoIUdqByI&list=PLD629C50E1A85BF84)
