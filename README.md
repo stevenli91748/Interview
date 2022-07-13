@@ -152,11 +152,16 @@
       * [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
   * [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
     * JVM原理
-    * 多线程    
+    * 多线程 
+    * java语言特性   
   * [面向对象OOD面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1---OOD)
     * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
 * 应用模块
   * 常用工具集
+    * 排查类
+    * 协作类
+    * 保障类
+    * 系统类 
   * 常用框架 
     * Spring
     * Spring Boot
@@ -192,8 +197,6 @@
     * SC
     * PCX
     * Haproxy
-* 应用知识
-  * 常用框架
 * 项目经验
   * [系统设计面试](https://github.com/stevenli91748/System-Design/blob/master/Interview/README.md)
   * [软件系统架构设计面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/Interview)
