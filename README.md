@@ -87,6 +87,11 @@
 * [前端程序员面试真题与解析](https://weread.qq.com/web/reader/f8c326807263ff81f8c14d7)
 * [Go程序员面试宝典](https://weread.qq.com/web/reader/05532a207190d266055dc4b)
 
+# 
+* [Java面试架构系统必考点---非常好，系统讲解Java必考点，可以此为架构体系系统学习Java](https://www.youtube.com/playlist?list=PL5d0qARooeQjH9JkFJzSnSaIdhIkJR5Lq)
+
+
+
 ---
 
 # 找工作网站
