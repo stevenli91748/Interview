@@ -147,13 +147,20 @@
   * 计算机基础
     * [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)  
     * [Network 面试](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
+      * http2 
     * 操作系统
       * [操作系统原理](https://github.com/stevenli91748/operation-system/blob/master/README.md)
       * [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
   * [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
     * JVM原理
+      * J1垃圾回收算法
+      * JJC垃圾回收算法  
+      * 内存屏障
+      * 指令重排序
+      * jit时编译器 
+      * 逃溢分析
     * 多线程 
-    * java语言特性   
+    * java8-11语言新特性   
   * [面向对象OOD面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1---OOD)
     * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
 * 应用模块
@@ -198,6 +205,10 @@
     * PCX
     * Haproxy
 * 项目经验
+  * 项目
+  * 项目难点
+  * 项目问题
+  * 项目改进
   * [系统设计面试](https://github.com/stevenli91748/System-Design/blob/master/Interview/README.md)
   * [软件系统架构设计面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/Interview)
   * [项目工程化面试](https://github.com/stevenli91748/Engineering-special/blob/master/Interview/README.md)
