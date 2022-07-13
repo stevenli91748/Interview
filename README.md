@@ -143,41 +143,21 @@
 ---
 
 
-* 基础知识
+* 基础模块
   * 计算机基础
     * [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)  
     * [Network 面试](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
     * 操作系统
       * [操作系统原理](https://github.com/stevenli91748/operation-system/blob/master/README.md)
       * [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
-  * [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)   
-  * [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic)
+  * [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
+    * JVM原理
+    * 多线程    
   * [面向对象OOD面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1---OOD)
     * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
-  * [系统设计面试  ](https://github.com/stevenli91748/System-Design)
-* 架构能力
-  * [架构设计&分布式&数据结构与算法面试题](https://thinkwon.blog.csdn.net/article/details/105870730)
-  * 软架构
-    * 前端架构
-      * [前端面试](https://github.com/stevenli91748/Frontend/blob/master/Interview/README.md)
-    * 中台架构
-    * 后端架构
-      * [分布式系统架构](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
-      * [微服务架构](https://github.com/stevenli91748/MicroService/blob/master/Interview/README.md)
-      * SOA架构
-  * 物理架构
-    * Docker
-    * Nginx
-    * Tomcat
-    * Zookeeper
-    * k8s
-    * LVS
-    * Keepalive
-    * SC
-    * PCX
-    * Haproxy
-* 应用知识
-  * 常用框架
+* 应用模块
+  * 常用工具集
+  * 常用框架 
     * Spring
     * Spring Boot
     * Spring Cloud
@@ -189,6 +169,31 @@
   * [Database 面试](https://github.com/stevenli91748/Database/blob/master/Interview/README.md)   
   * 缓存
     * [Redis](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
+* 综合模块
+  * [架构设计&分布式&数据结构与算法面试题](https://thinkwon.blog.csdn.net/article/details/105870730)
+  * [系统架构设计面试  ](https://github.com/stevenli91748/System-Design) 
+  * 软架构
+    * 前端架构
+      * [前端面试](https://github.com/stevenli91748/Frontend/blob/master/Interview/README.md)
+    * 中台架构
+    * 后端架构
+      * [分布式系统架构](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
+      * [微服务架构](https://github.com/stevenli91748/MicroService/blob/master/Interview/README.md)
+      * SOA架构
+  * 物理架构
+    * 容器化
+      * Docker
+      * kubernetes
+    * Nginx
+    * Tomcat
+    * Zookeeper
+    * LVS
+    * Keepalive
+    * SC
+    * PCX
+    * Haproxy
+* 应用知识
+  * 常用框架
 * 项目经验
   * [系统设计面试](https://github.com/stevenli91748/System-Design/blob/master/Interview/README.md)
   * [软件系统架构设计面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/Interview)
