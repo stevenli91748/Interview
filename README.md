@@ -84,6 +84,8 @@
 # 在线书籍
 
 * [程序员面试金典（第6版）](https://weread.qq.com/web/reader/bf93256071a122bebf98d95)
+* [Java高级程序员面试笔试宝典 2019](https://weread.qq.com/web/reader/69232c7071ef58fb6924615kecc32f3013eccbc87e4b62e)
+* [Java程序员面试笔试宝典 第2版 2021](https://weread.qq.com/web/reader/9e9328a0813ab6da1g011250)
 * [前端程序员面试真题与解析](https://weread.qq.com/web/reader/f8c326807263ff81f8c14d7)
 * [Go程序员面试宝典](https://weread.qq.com/web/reader/05532a207190d266055dc4b)
 
