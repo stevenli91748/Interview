@@ -190,7 +190,7 @@
   * [Database 面试](https://github.com/stevenli91748/Database/blob/master/Interview/README.md)   
   * 缓存
     * [Redis](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
-* 综合模块
+* 架构综合模块
   * [架构设计&分布式&数据结构与算法面试题](https://thinkwon.blog.csdn.net/article/details/105870730)
   * [系统架构设计面试  ](https://github.com/stevenli91748/System-Design) 
   * 软架构
