@@ -168,7 +168,7 @@
       * 指令重排序
       * jit时编译器 
       * 逃溢分析
-    * 多线程 
+    * 多线程与并发 
   * [面向对象OOD面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1---OOD/OOD%20interview)
     * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
   * 考察点和加分项
@@ -180,15 +180,17 @@
     * 系统类 
   * 常用框架 
     * Spring
-    * Spring Boot
-    * Spring Cloud
+      * Spring Boot
+      * Spring Cloud
     * Netty
     * Mybatis
     * Node
     * Dubbo
+    * RPC
+    * ORM
   * [消息队列](https://github.com/stevenli91748/Message-Server-System/blob/master/Interview/README.md)
   * [Database 面试](https://github.com/stevenli91748/Database/blob/master/Interview/README.md)   
-  * 缓存
+  * 缓存---
     * [Redis](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
 * 架构综合模块
   * [架构设计&分布式&数据结构与算法面试题](https://thinkwon.blog.csdn.net/article/details/105870730)
