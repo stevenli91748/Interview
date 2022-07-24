@@ -137,6 +137,9 @@
 <a href="https://ibb.co/TBgMq5q"><img src="https://i.ibb.co/HDHTpQp/20190301154311294.gif" alt="20190301154311294" border="0"></a>
 
 
+[面试怪圈---是一个免费的覆盖java基础,互联网面试题,Jvm,架构,中间件,数据库,缓存服务,并发编程,设计模式,算法,网络,操作系统的大型综合资源网站,包含：Java基础,Mysql调优,架构设计,项目实战,Redis缓存,Python,Spring等技术资料](http://www.mianshiguaiquan.com/)|
+---|
+
 [芋道源码---面试题](http://svip.iocoder.cn/tags/%E9%9D%A2%E8%AF%95%E9%A2%98/)|[Interviews---Your personal guide to Software Engineering technical interviews](https://github.com/kdn251/interviews)|
 ---|---|
 
