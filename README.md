@@ -96,6 +96,9 @@
 # 系统学习Java体系
 * [Java面试架构系统必考点---非常好，系统讲解Java必考点，可以此为架构体系系统学习Java](https://www.youtube.com/playlist?list=PL5d0qARooeQjH9JkFJzSnSaIdhIkJR5Lq)
 
+# 公司面试
+* [国外各种公司的面试](https://www.youtube.com/c/XCode1024/playlists)
+
 
 
 ---
