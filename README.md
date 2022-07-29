@@ -190,10 +190,10 @@
       * FindBugs---静态代码检测工具
       * SonarQube--- 质量保证检测平台
     * 压力测试
-      * JMeter
-      * JMH
-      * AB
-      * LoadRunner 
+      * JMeter---专业的压力测试工具
+      * JMH---主要针对JVM进行基准测试，关注方法层面压力测试，Java开发人员重点使用该工具进行压测
+      * AB---简单的对HTTP 接口进行并发压力测试
+      * LoadRunner---专业的压力测试工具 
     * 容器与代理
       * Tomcat
       * Jetty
