@@ -181,10 +181,39 @@
   * 考察点和加分项
 * 应用模块
   * 常用工具集
-    * 排查类
-    * 协作类
-    * 保障类
-    * 系统类
+    * 团队协作
+      * Maven
+      * Gradle
+      * Git 
+    * 质量保证
+      * Checkstyle---静态代码检测工具
+      * FindBugs---静态代码检测工具
+      * SonarQube--- 质量保证检测平台
+    * 压力测试
+      * JMeter
+      * JMH
+      * AB
+      * LoadRunner 
+    * 容器与代理
+      * Tomcat
+      * Jetty
+      * Nginx
+      * Envoy
+      * OpenResty
+      * Kong
+    * CI/CD  
+      * Gitlab-CI
+      * Jenkins
+    * JVM
+    * 系统分析
+      * vmstat 
+    * 文档管理
+      * javaDoc
+      * Swagger 
+    * 网络工具
+      * PostMan
+      * WileShark
+      * Fidder  
     * 考察点和加分项
   * 常用框架 
     * Spring
