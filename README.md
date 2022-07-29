@@ -213,7 +213,7 @@
     * 网络工具
       * PostMan
       * WileShark
-      * Fidder  
+      * Fiddler---只针对http进行抓包，可模拟慢网速，是WEB前端和移动端调试利器  
     * 考察点和加分项
   * 常用框架 
     * Spring
