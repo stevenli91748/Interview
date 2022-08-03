@@ -162,7 +162,7 @@
       * http2 
       * TCP/IP
     * 操作系统
-      * [操作系统原理](https://github.com/stevenli91748/operation-system/blob/master/README.md)
+      * [操作系统原理](https://github.com/stevenli91748/operation-system/blob/master/interview/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E7%9F%A5%E8%AF%86%E7%82%B9.md)
       * [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
   * [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
     * java8-11语言新特性   
