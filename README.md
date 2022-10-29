@@ -98,7 +98,7 @@
 
 # 公司面试
 * [国外各种公司的面试](https://www.youtube.com/c/XCode1024/playlists)
-
+* [亚马逊 Amazon 模拟面试】北美程序员 找工作 technical round](https://www.youtube.com/watch?v=sxWf3woUGR8)
 
 
 ---
