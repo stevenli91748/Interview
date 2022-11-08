@@ -100,7 +100,7 @@
 * [国外各种公司的面试](https://www.youtube.com/c/XCode1024/playlists)
 * [亚马逊 Amazon 模拟面试】北美程序员 找工作 technical round](https://www.youtube.com/watch?v=sxWf3woUGR8)
 * [【彭博社 Bloomberg 开花堡 模拟面试】北美程序员 找工作 technical round](https://www.youtube.com/watch?v=Qk0mTmVrJg8&t=115s)
-* []()
+* [模拟面试](https://www.youtube.com/channel/UCICZmHKT9-lmsXIlFTW_9Bg/videos)
 * []()
 * []()
 
