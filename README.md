@@ -96,9 +96,13 @@
 # 系统学习Java体系
 * [Java面试架构系统必考点---非常好，系统讲解Java必考点，可以此为架构体系系统学习Java](https://www.youtube.com/playlist?list=PL5d0qARooeQjH9JkFJzSnSaIdhIkJR5Lq)
 
-# 公司面试
+# 公司模拟面试视频
 * [国外各种公司的面试](https://www.youtube.com/c/XCode1024/playlists)
 * [亚马逊 Amazon 模拟面试】北美程序员 找工作 technical round](https://www.youtube.com/watch?v=sxWf3woUGR8)
+* [【彭博社 Bloomberg 开花堡 模拟面试】北美程序员 找工作 technical round](https://www.youtube.com/watch?v=Qk0mTmVrJg8&t=115s)
+* []()
+* []()
+* []()
 
 
 ---
