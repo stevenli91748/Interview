@@ -158,6 +158,49 @@
 
 ---
 
+* 单体知识点
+  * git
+  * github
+  * maven
+  * linux
+    * docker
+    * kubernetes
+  * nginx
+  * lvs + keepalive
+  * Redis
+  * 并发线程
+  * 设计模式
+  * netty
+* 分布式知识点
+  * 服务治理
+  * 注册中心
+  * 网关
+  * 分布式锁
+  * 分布式事务
+  * 分布式日志
+  * 分布式服务总线
+  * 分布式服务监控
+  * 分布式链路追踪
+  * 分布式服务协调工具
+* 架构能力
+  * RPC
+  * Dubbo
+  * 消息队列
+    * kafka
+    * rabbitMQ
+  * 微服务
+    * Spring Cloud
+    * Spring Cloud Alibaba
+* 架构设计
+　* 服务网格
+  * serverless
+  * BFF
+  * DDD
+  * 云原生
+  
+
+
+
 
 * 基础模块
   * 计算机基础
