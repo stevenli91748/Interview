@@ -207,17 +207,16 @@
   * lvs + keepalive专题
   * Redis分布式缓冲专题
   * Netty分布式通信专题
-  
   * Dubbo分布式高性能框架专题
   * ELK分布式日志专题
   * Elasticsearch
-  * 分布式事务专题
-    * Seata  
+  * 分布式事务专题---最多人在工业级使用的分布式事务方案是基于两阶段提交协议的分布式事务方案
+    * Seata---最多人在工业级使用的分布式事务框架是阿里巴巴开源的 Seata  
   * 分布式锁专题
   * 分布式中间件专题
     * RabbitMQ专题
     * RocketMQ专题
-    * Kafka专题
+    * Kafka专题---最多人在工业级使用的分布式消息总线是 Apache Kafka
     * Shardingsphere专题
   * 分布式服务总线专题
     * Kafka专题---最多人在工业级使用的分布式服务总线是 Kafka
