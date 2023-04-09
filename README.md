@@ -181,10 +181,14 @@
     * 计算机网络
     * 编译原理
   * 应用基础知识
+    * java 
     * Maven
     * Idea
     * Git,Github,Gitee,GitLab
     * Linux
+    * Docker
+    * Kubernetes
+    * Jenkins 
 # 数据结构和算法 
 # 源码框架专题
 # 高并发编程专题
@@ -194,21 +198,34 @@
   * Tomcat性能调优专题
   * Redis性能调优专题
 # 分布式框架专题
+  * NGINX专题
   * Redis分布式缓冲专题
   * Netty分布式通信专题
   * Zookeeper分布式技术专题
   * Dubbo分布式高性能框架专题
   * ELK分布式日志专题
+  * Elasticsearch
   * 分布式事务专题
   * 分布式中间件专题
     * RabbitMQ专题
     * Kafka专题
     * RocketMQ专题
     * Shardingsphere专题
-# 微服务专题 
-  * 
-    
-
+# 微服务专题
+  * Spring
+  * Spring Cloud
+  * Spring Cloud Alibaba
+    * 微服务注册中心
+      * Naco 
+    * 微服务配置中心
+      * Naco 
+      * Apollo
+    * 微服务网关
+      * Spring Cloud Gateway 
+    * 微服务容错限流
+      * Sentinel
+    * 微服务分布式事务
+      * Seata  
 
 
 
