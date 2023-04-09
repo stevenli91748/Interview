@@ -180,15 +180,19 @@
     * 操作系统
     * 计算机网络
     * 编译原理
-  * 应用基础知识
+  * 单体应用基础知识
     * java 
     * Maven
     * Idea
     * Git,Github,Gitee,GitLab
+    * 并发线程
+    * 设计模式
     * Linux
     * Docker
     * Kubernetes
     * Jenkins 
+    * CI/CD
+    * DEVOPS
 # 数据结构和算法 
 # 源码框架专题
 # 高并发编程专题
@@ -196,9 +200,11 @@
   * JVM性能调优专题
   * MySQL性能调优专题
   * Tomcat性能调优专题
+  * Nginx性能调优专题
   * Redis性能调优专题
 # 分布式框架专题
   * NGINX专题
+  * lvs + keepalive专题
   * Redis分布式缓冲专题
   * Netty分布式通信专题
   * Zookeeper分布式技术专题
@@ -206,11 +212,17 @@
   * ELK分布式日志专题
   * Elasticsearch
   * 分布式事务专题
+  * 分布式锁
   * 分布式中间件专题
     * RabbitMQ专题
     * Kafka专题
     * RocketMQ专题
     * Shardingsphere专题
+  * 分布式服务总线
+  * 分布式服务监控
+  * 分布式链路追踪
+  * 分布式服务协调工具
+
 # 微服务专题
   * Spring
   * Spring Cloud
@@ -226,7 +238,7 @@
       * Sentinel
     * 微服务分布式事务
       * Seata  
-
+# 系统架构专题
 
 
 
