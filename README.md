@@ -207,12 +207,13 @@
   * lvs + keepalive专题
   * Redis分布式缓冲专题
   * Netty分布式通信专题
-  * Zookeeper分布式技术专题
+  
   * Dubbo分布式高性能框架专题
   * ELK分布式日志专题
   * Elasticsearch
   * 分布式事务专题
-  * 分布式锁
+    * Seata  
+  * 分布式锁专题
   * 分布式中间件专题
     * RabbitMQ专题
     * Kafka专题
@@ -220,9 +221,11 @@
     * Shardingsphere专题
   * 分布式服务总线
   * 分布式服务监控
+    * Prometheus
   * 分布式链路追踪
+    * Skywalking
   * 分布式服务协调工具
-
+    * Zookeeper分布式技术专题---ZooKeeper 成为了业界最多人常用的分布式服务协调工具
 # 微服务专题
   * Spring
   * Spring Cloud
@@ -238,6 +241,10 @@
       * Sentinel
     * 微服务分布式事务
       * Seata  
+    * 微服务分布式链路追踪系统
+      * Skywalking
+    * 微服务分布式监控系统
+      * Prometheus
 # 系统架构专题
 
 
