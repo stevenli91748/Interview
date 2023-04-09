@@ -216,14 +216,16 @@
   * 分布式锁专题
   * 分布式中间件专题
     * RabbitMQ专题
-    * Kafka专题
     * RocketMQ专题
+    * Kafka专题
     * Shardingsphere专题
-  * 分布式服务总线
+  * 分布式服务总线专题
+    * Kafka专题---最多人在工业级使用的分布式服务总线是 Kafka
   * 分布式服务监控
-    * Prometheus
+    * Prometheus and Grafana----最多人在工业级使用的分布式服务监控工具是 Prometheus 和 Grafana
   * 分布式链路追踪
-    * Skywalking
+    * Zipkin and Jaeger ---最多人在工业级使用的分布式链路追踪工具是 Zipkin 和 Jaeger 
+    * Skywalking---中国比较流行
   * 分布式服务协调工具
     * Zookeeper分布式技术专题---ZooKeeper 成为了业界最多人常用的分布式服务协调工具
 # 微服务专题
