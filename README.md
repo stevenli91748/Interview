@@ -181,6 +181,9 @@
     * [计算机网络](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
     * 编译原理
   * 单体应用基础知识
+    * [面向对象OOD面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1---OOD/OOD%20interview)
+      * UML
+      * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md) 
     * [java ](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
     * 常用工具集
       * Maven
@@ -196,7 +199,6 @@
         * AB---简单的对HTTP 接口进行并发压力测试
         * LoadRunner---专业的压力测试工具 
     * 并发线程
-    * 设计模式
     * [Linux](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
     * Docker
     * Kubernetes
