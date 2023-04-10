@@ -222,7 +222,7 @@
   * MySQL性能调优专题
   * Tomcat性能调优专题
   * Nginx性能调优专题
-  * Redis性能调优专题
+  * [Redis性能调优专题](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
 # 分布式框架专题
   * NGINX专题
   * lvs + keepalive专题
@@ -234,7 +234,7 @@
   * 分布式事务专题---最多人在工业级使用的分布式事务方案是基于两阶段提交协议的分布式事务方案
     * Seata---最多人在工业级使用的分布式事务框架是阿里巴巴开源的 Seata  
   * 分布式锁专题
-    * 基于Redis 的分布式锁---最多人在工业级使用的分布式锁是基于 Redis 的分布式锁
+    * [基于Redis 的分布式锁---最多人在工业级使用的分布式锁是基于 Redis 的分布式锁](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
     * 基于ZooKeeper 的分布式锁 
     * 基于数据库的分布式锁
   * 分布式消息中间件专题
