@@ -186,9 +186,10 @@
       * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md) 
     * [java ](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
     * 常用工具集
-      * Maven
-      * Idea
-      * Git,Github,Gitee,GitLab
+      * 团队协作工具
+        * Maven
+        * Idea
+        * Git,Github,Gitee,GitLab
       * 质量保证工具
         * Checkstyle---静态代码检测工具
         * FindBugs---静态代码检测工具
@@ -209,10 +210,17 @@
         * Swagger 
     * 并发线程
     * [Linux](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
-    * Docker
-    * Kubernetes
-    * Jenkins 
-    * CI/CD
+    * 容器与代理
+      * Docker
+      * Kubernetes
+      * Tomcat
+      * Jetty
+      * Nginx
+      * Envoy
+      * OpenResty
+      * Kong
+    * CI/CD  
+      * Jenkins 
     * DEVOPS
 # [数据结构和算法 ](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)  
 # 源码框架专题
@@ -252,6 +260,7 @@
   * 分布式服务协调工具
     * Zookeeper分布式技术专题---ZooKeeper 成为了业界最多人常用的分布式服务协调工具
 # 微服务专题
+  * DDD专题
   * Spring
   * Spring Cloud
   * Spring Cloud Alibaba
@@ -271,11 +280,13 @@
     * 微服务分布式监控系统
       * Prometheus
 # 系统架构专题
-　* 服务网格专题
-  * serverless专题
-  * BFF
-  * DDD专题
-  * 云原生专题
+  * 架构原理
+　  * 服务网格专题
+    * serverless专题
+    * BFF专题
+    * 云原生专题
+  * [架构设计&分布式&数据结构与算法面试题](https://thinkwon.blog.csdn.net/article/details/105870730)
+  * [系统架构设计面试  ](https://github.com/stevenli91748/System-Design) 
 
 
 
@@ -308,10 +319,6 @@
       * 指令重排序
       * jit时编译器 
       * 逃溢分析
-    * 多线程与并发 
-  * [面向对象OOD面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1---OOD/OOD%20interview)
-    * UML
-    * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md)
   * 考察点和加分项
 * 应用模块
   * 常用工具集
