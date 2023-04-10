@@ -223,6 +223,7 @@
       * Jenkins 
     * DEVOPS
 # [数据结构和算法 ](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)  
+# [Database 专题](https://github.com/stevenli91748/Database/blob/master/Interview/README.md)   
 # 源码框架专题
 # 高并发编程专题
 # 性能调优专题
@@ -232,8 +233,8 @@
   * Nginx性能调优专题
   * [Redis性能调优专题](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
 # 分布式框架专题
-  * NGINX专题
-  * lvs + keepalive专题
+  * NGINX专题---在工业级架构中，Nginx仍然是非常流行和常用的软件
+  * lvs + keepalive专题---它们仍然是在工业级架构中使用的常见软件
   * Redis分布式缓冲专题
   * Netty分布式通信专题
   * Dubbo分布式高性能框架专题
