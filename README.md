@@ -190,10 +190,26 @@
         * Maven
         * Idea
         * Git,Github,Gitee,GitLab
+      * 日志开发框架工具
+        * SLF4J
+        * LOG4J
+        * LOGBACK
+        * COMMONS
+        * LOGGING
+      * 单元测试框架
+        * Junit框架
+        * Mock框架  
       * 质量保证工具
         * Checkstyle---静态代码检测工具
         * FindBugs---静态代码检测工具
         * SonarQube--- 质量保证检测平台
+      * 开发规范
+        * 编程规范
+        * 安全规范
+        * 工程结构
+        * 设计规范
+        * 数据库规范
+        * 异常日志规范 
       * 压力测试工具
         * JMeter---专业的压力测试工具
         * JMH---主要针对JVM进行基准测试，关注方法层面压力测试，Java开发人员重点使用该工具进行压测
