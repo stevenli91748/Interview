@@ -232,7 +232,7 @@
   * Tomcat性能调优专题
   * Nginx性能调优专题
   * [Redis性能调优专题](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
-# 分布式框架专题
+# [分布式框架专题](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
   * NGINX专题---在工业级架构中，Nginx仍然是非常流行和常用的软件
   * lvs + keepalive专题---它们仍然是在工业级架构中使用的常见软件
   * Redis分布式缓冲专题
@@ -260,7 +260,7 @@
     * Skywalking---中国比较流行
   * 分布式服务协调工具
     * Zookeeper分布式技术专题---ZooKeeper 成为了业界最多人常用的分布式服务协调工具
-# 微服务专题
+# [微服务专题](https://github.com/stevenli91748/MicroService/blob/master/Interview/README.md)
   * DDD专题
   * Spring
   * Spring Cloud
@@ -288,92 +288,6 @@
     * 云原生专题
   * [架构设计&分布式&数据结构与算法面试题](https://thinkwon.blog.csdn.net/article/details/105870730)
   * [系统架构设计面试  ](https://github.com/stevenli91748/System-Design) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-* 基础模块
-  * 计算机基础
-    * [数据结构与算法面试]
-    * [Network 面试](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
-      * http2 
-      * TCP/IP
-    * 操作系统
-      * [操作系统原理]
-      * [Linux 面试]
-  * [JAVA 面试]
-    * java8-11语言新特性   
-    * JAVA语言基础知识
-    * JVM原理
-      * J1垃圾回收算法
-      * JJC垃圾回收算法  
-      * 内存屏障
-      * 指令重排序
-      * jit时编译器 
-      * 逃溢分析
-  * 考察点和加分项
-* 应用模块
-  * 常用工具集
-    * 团队协作
-      * Maven
-      * Gradle
-      * Git 
-    * 质量保证
-      * Checkstyle---静态代码检测工具
-      * FindBugs---静态代码检测工具
-      * SonarQube--- 质量保证检测平台
-    * 压力测试
-      * JMeter---专业的压力测试工具
-      * JMH---主要针对JVM进行基准测试，关注方法层面压力测试，Java开发人员重点使用该工具进行压测
-      * AB---简单的对HTTP 接口进行并发压力测试
-      * LoadRunner---专业的压力测试工具 
-    * 容器与代理
-      * Tomcat
-      * Jetty
-      * Nginx
-      * Envoy
-      * OpenResty
-      * Kong
-    * CI/CD  
-      * Gitlab-CI
-      * Jenkins
-    * JVM
-    * 系统分析
-      * vmstat 
-    * 文档管理
-      * javaDoc
-      * Swagger 
-    * 网络工具
-      * PostMan
-      * WileShark
-      * Fiddler---只针对http进行抓包，可模拟慢网速，是WEB前端和移动端调试利器  
-    * 考察点和加分项
-  * 常用框架 
-    * Spring
-      * Spring Boot
-      * Spring Cloud
-    * Netty
-    * Mybatis
-    * Node
-    * Dubbo
-    * RPC
-    * ORM
-  * [消息队列](https://github.com/stevenli91748/Message-Server-System/blob/master/Interview/README.md)
-  * [Database 面试](https://github.com/stevenli91748/Database/blob/master/Interview/README.md)   
-  * 缓存---
-    * [Redis](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
-* 架构综合模块
-  * [架构设计&分布式&数据结构与算法面试题](https://thinkwon.blog.csdn.net/article/details/105870730)
-  * [系统架构设计面试  ](https://github.com/stevenli91748/System-Design) 
   * 软架构
     * 前端架构
       * [前端面试](https://github.com/stevenli91748/Frontend/blob/master/Interview/README.md)
@@ -389,12 +303,9 @@
     * Nginx
     * Tomcat
     * Zookeeper
-    * LVS
-    * Keepalive
-    * SC
-    * PCX
+    * LVS+Keepalive
     * Haproxy
-* 项目经验
+# 项目经验
   * 项目
   * 项目难点
   * 项目问题
@@ -407,6 +318,7 @@
 # [大数据面试](https://github.com/stevenli91748/Big-Data/blob/master/Interview/README.md)
 # [Android-APP 面试](https://github.com/stevenli91748/Android-APP/blob/master/Interview/README.md)
 # [IOS-APP 面试](https://github.com/stevenli91748/IOS-APP/blob/master/Interview/README.md)
+
 
 # 视频
 * [你的全栈开发项目，如何升级达到工业级?](https://www.youtube.com/watch?v=GkiQ8mhdTAA)
