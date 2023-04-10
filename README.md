@@ -177,23 +177,33 @@
 # 基础知识
   * 计算机基础知识
     * 计算机组成原理
-    * 操作系统
-    * 计算机网络
+    * [操作系统](https://github.com/stevenli91748/operation-system/blob/master/interview/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E7%9F%A5%E8%AF%86%E7%82%B9.md)
+    * [计算机网络](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
     * 编译原理
   * 单体应用基础知识
-    * java 
-    * Maven
-    * Idea
-    * Git,Github,Gitee,GitLab
+    * [java ](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
+    * 常用工具集
+      * Maven
+      * Idea
+      * Git,Github,Gitee,GitLab
+      * 质量保证工具
+        * Checkstyle---静态代码检测工具
+        * FindBugs---静态代码检测工具
+        * SonarQube--- 质量保证检测平台
+      * 压力测试工具
+        * JMeter---专业的压力测试工具
+        * JMH---主要针对JVM进行基准测试，关注方法层面压力测试，Java开发人员重点使用该工具进行压测
+        * AB---简单的对HTTP 接口进行并发压力测试
+        * LoadRunner---专业的压力测试工具 
     * 并发线程
     * 设计模式
-    * Linux
+    * [Linux](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
     * Docker
     * Kubernetes
     * Jenkins 
     * CI/CD
     * DEVOPS
-# 数据结构和算法 
+# [数据结构和算法 ](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)  
 # 源码框架专题
 # 高并发编程专题
 # 性能调优专题
@@ -250,68 +260,34 @@
     * 微服务分布式监控系统
       * Prometheus
 # 系统架构专题
-
-
-
-
-
-
-
-
-* 单体知识点
-  * git
-  * github
-  * maven
-  * linux
-    * docker
-    * kubernetes
-  * nginx
-  * lvs + keepalive
-  * Redis
-  * 并发线程
-  * 设计模式
-  * netty
-* 分布式知识点
-  * 服务治理
-  * 注册中心
-  * 网关
-  * 分布式锁
-  * 分布式事务
-  * 分布式日志
-  * 分布式服务总线
-  * 分布式服务监控
-  * 分布式链路追踪
-  * 分布式服务协调工具
-* 架构能力
-  * RPC
-  * Dubbo
-  * 消息队列
-    * kafka
-    * rabbitMQ
-  * 微服务
-    * Spring Cloud
-    * Spring Cloud Alibaba
-* 架构设计
-　* 服务网格
-  * serverless
+　* 服务网格专题
+  * serverless专题
   * BFF
-  * DDD
-  * 云原生
-  
+  * DDD专题
+  * 云原生专题
+
+
+
+
+
+
+
+
+
 
 
 
 
 * 基础模块
   * 计算机基础
-    * [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)  
+    * [数据结构与算法面试]
     * [Network 面试](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
       * http2 
       * TCP/IP
     * 操作系统
-      * [操作系统原理](https://github.com/stevenli91748/operation-system/blob/master/interview/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E7%9F%A5%E8%AF%86%E7%82%B9.md)
-      * [Linux 面试](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
-  * [JAVA 面试](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
+      * [操作系统原理]
+      * [Linux 面试]
+  * [JAVA 面试]
     * java8-11语言新特性   
     * JAVA语言基础知识
     * JVM原理
