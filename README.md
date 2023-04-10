@@ -316,8 +316,10 @@
 # 9 系统架构专题
   * 架构原理
 　
-    * 服务网格专题
-    * serverless专题
+    * 服务网格专题---服务网格主要关注微服务的连接和管理，而serverless主要关注无服务器计算模型的实现
+      * Istio 
+    * serverless专题---服务网格主要关注微服务的连接和管理，而serverless主要关注无服务器计算模型的实现
+      * AWS Lambda  
     * BFF专题
     * 云原生专题
   * [架构设计&分布式&数据结构与算法面试题](https://thinkwon.blog.csdn.net/article/details/105870730)
