@@ -302,6 +302,15 @@
     * FastDFS
     * MongoDB
     * 分布式数据库TiDB
+  * 分布式全局ID
+    * 分布式ID解决方案
+      * UUID方案
+      * MySQL方案
+      * 大厂开源中间件实现方案
+        * 滴滴开源框架 TinyID
+        * 百度开源框架UIdgenerator   
+        * 美团开源框架Leaf
+  
   * 分布式消息中间件专题
     * RabbitMQ专题
     * RocketMQ专题
@@ -327,9 +336,13 @@
         * Zookeeper实现注册中心 
       * Eureka
       * Consul
-      * Naco 
+      * Nacos 
+      * kubernetes---可以通过在 Kubernetes 集群中创建 Service 和 Ingress 资源来实现服务的注册和发现。因此，在使用 Kubernetes 构建工业级应用时，通常会使用 Kubernetes 内置的服务发现功能作为注册中心
     * 微服务配置中心
-      * Naco 
+      * 配置中心实现方案
+        * Redis实现配置中心
+        * Zookeeper实现配置中心 
+      * Nacos 
       * Apollo
     * 微服务网关
       * Spring Cloud Gateway 
