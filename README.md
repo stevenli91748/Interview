@@ -266,7 +266,7 @@
 # [7 分布式框架专题](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
   * NGINX专题---在工业级架构中，Nginx仍然是非常流行和常用的软件
   * lvs + keepalive专题---它们仍然是在工业级架构中使用的常见软件
-  * Redis分布式缓冲专题
+  
   * Elasticsearch
   * 分布式理论
     * 分布式架构演进
@@ -297,7 +297,11 @@
     * [基于Redis 的分布式锁---最多人在工业级使用的分布式锁是基于 Redis 的分布式锁](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
     * 基于ZooKeeper 的分布式锁 
     * 基于MySQL数据库的分布式锁
-      *  
+  * 分布式存储
+    * Redis分布式缓冲专题
+    * FastDFS
+    * MongoDB
+    * 分布式数据库TiDB
   * 分布式消息中间件专题
     * RabbitMQ专题
     * RocketMQ专题
@@ -318,6 +322,11 @@
   * Spring Cloud
   * Spring Cloud Alibaba
     * 微服务注册中心
+      * 注册中心实现方案
+        * Redis实现注册中心
+        * Zookeeper实现注册中心 
+      * Eureka
+      * Consul
       * Naco 
     * 微服务配置中心
       * Naco 
