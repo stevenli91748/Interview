@@ -268,11 +268,28 @@
   * lvs + keepalive专题---它们仍然是在工业级架构中使用的常见软件
   * Redis分布式缓冲专题
   * Netty分布式通信专题
-  * Dubbo分布式高性能框架专题
+  * 分布式理论
+    * 分布式架构演进
+      * 单体架构
+      * 集群架构
+      * 分布式架构
+      * 微服务架构
+    * CAP理论
+    * 数据一致性
+      * Paxos算法
+      * zab协议
+      * raft协议
   * ELK分布式日志专题
   * Elasticsearch
-  * 分布式RPC
+  * 分布式RPC调用
+    * 手写模拟RPC框架
+    * Dubbo分布式高性能框架专题
   * 分布式事务专题---最多人在工业级使用的分布式事务方案是基于两阶段提交协议的分布式事务方案
+    * 分布式事务理论
+      * 两阶段提交
+      * 三阶段提交
+      * Tcc解决方案
+      * Saga解决方案
     * Seata---最多人在工业级使用的分布式事务框架是阿里巴巴开源的 Seata  
   * 分布式锁专题
     * [基于Redis 的分布式锁---最多人在工业级使用的分布式锁是基于 Redis 的分布式锁](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
