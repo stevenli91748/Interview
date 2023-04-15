@@ -291,8 +291,9 @@
       * 两阶段提交
       * 三阶段提交
       * Tcc解决方案
-      * Saga解决方案
-    * Seata---最多人在工业级使用的分布式事务框架是阿里巴巴开源的 Seata  
+    * Saga解决方案
+    * 消息队列实现方案
+    * Seata解决方案---最多人在工业级使用的分布式事务框架是阿里巴巴开源的 Seata  
   * 分布式锁专题
     * [基于Redis 的分布式锁---最多人在工业级使用的分布式锁是基于 Redis 的分布式锁](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
     * 基于ZooKeeper 的分布式锁 
@@ -306,11 +307,24 @@
     * 分布式ID解决方案
       * UUID方案
       * MySQL方案
-      * 大厂开源中间件实现方案
-        * 滴滴开源框架 TinyID
-        * 百度开源框架UIdgenerator   
-        * 美团开源框架Leaf
-  
+      * 雪花算法
+    * 大厂开源中间件实现方案
+      * 滴滴开源框架 TinyID
+      * 百度开源框架UIdgenerator   
+      * 美团开源框架Leaf
+  * 分布式会话
+    * 分布式Session解决方案
+      * 客户端存储
+      * session复制
+      * session绑定
+      * 基于redis存储Session解决方案
+    * Memcached session manager
+      * 沾性SESSION
+      * 非沾性SESSION
+    * spring session
+      * spring session 整合redis同域名下相同项目实现SESSION共享
+      * spring session 整合redis同域名下不同项目实现SESSION共享
+      * 同根域名不同二级子域名下的项目实现Session共享
   * 分布式消息中间件专题
     * RabbitMQ专题
     * RocketMQ专题
