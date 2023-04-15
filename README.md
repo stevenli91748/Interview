@@ -369,7 +369,7 @@
   * 分布式服务协调工具
     * Zookeeper分布式技术专题---ZooKeeper 成为了业界最多人常用的分布式服务协调工具
 # [8 微服务专题](https://github.com/stevenli91748/MicroService/blob/master/Interview/README.md)
-  * DDD专题
+
   * Spring
   * Spring Cloud
   * Spring Cloud Alibaba
@@ -387,20 +387,70 @@
         * Zookeeper实现配置中心 
       * Nacos 
       * Apollo
-    * 微服务网关
+    * 微服务熔断降级与限流
+      * 限流算法
+        * 固定时间窗口算法
+        * 滑动时间窗口算法
+        * 令牌桶算法
+        * 漏桶算法
+        * 分布式限流算法
+      * Spring Cloud Sentinel
+      * Spring Cloud Hystrix  
+    * 微服务网关路由
+      * Zuul
+      * Kong 
       * Spring Cloud Gateway 
     * 微服务容错限流
       * Sentinel
     * 微服务分布式事务
       * Seata  
     * 微服务分布式链路追踪系统
+      * Zipkin
+      * SpringCloud Sleuth 
       * Skywalking
     * 微服务分布式监控系统
-      * Prometheus
+      * 监控平台
+        * Prometheus
+        * alert manager告警配置
+        * grafana监控指标展示
+        * 监控平台大屏展示
+      * zabbix
+      * SpringBoot Actuator 
+    * 微服务分布式权限认证
+      * OAuth2.0
+      * Spring Security
+      * Shiro 
+    * 微服务消息总线
+      * SpringCloud Bus
+      * SpringCloud Stream 
+  * Devops
+    * docker
+    * kubernetes
+    * jenkins
+    * 从零打建Devops 
+      *  
 # 9 系统架构专题
-  * 架构原理
-　
-    * 服务网格专题---服务网格主要关注微服务的连接和管理，而serverless主要关注无服务器计算模型的实现
+  * 架构师基本功 
+    * DDD专题
+    * 架构原理
+      * 架构设计原则
+        * 基础架构设计原则
+        * 高并发架构设计原则
+        * 高可用架构设计原则
+        * 高可展架构设计原则  
+        * AKF划分原则
+　  * 架构设计模式
+　    * 分层架构
+　    * 事件驱动架构
+　    * 分布式架构
+　    * 微服务架构
+　  * 架构设计协议
+　    * CAP/BASE
+　    * PAXOS
+　    * ZAB
+　    * RAFT
+　    * GOSSIP 
+    * ServiceMesh服务网格专题---服务网格主要关注微服务的连接和管理，而serverless主要关注无服务器计算模型的实现
       * Istio 
     * serverless专题---服务网格主要关注微服务的连接和管理，而serverless主要关注无服务器计算模型的实现
       * AWS Lambda  
@@ -425,8 +475,65 @@
     * Zookeeper
     * LVS+Keepalive
     * Haproxy
+  * 中间件源码
+    * 微服务Alibaba源码
+      * Nacos
+      * Sentinel
+      * Seata
+      * Dubbo
+      * RocketMQ 
+    * 微服务Netflix源码
+      * Eureka
+      * Ribbon
+      * Feign
+      * Hystrix
+      * Zuul 
+    * 分布式源码
+      * Netty
+      * Redis
+      * Zookeeper
+      * ShardingSphere
+      * Spring Cloud Gateway 
+    * Spring系列源码
+      * Spirng
+      * Mybatis
+      * Spring Boot
 # 10 项目经验
-  * 项目
+  * 项目架构实战
+    * 技术架构落地
+      * 技术架构选型
+      * 微服务架构落地
+      * 分布式架构落地
+      * 中台架构落地
+      * ServiceMesh架构落地  
+  * 项目部署调优
+    * 云原生部署
+      * DevOPS
+      * 高可用集群部署lvs/Keepalived/Nginx
+      * 无单点服务容器编排
+      * 全链路高可用架构部署
+      * 阿里云上线
+    * 服务监控
+      * 微服务实例监控
+      * 容器实例监控
+      * JVM与数据库监控
+      * 中间件监控
+      * 操作系统级监控
+    * 全链路压测
+      * 压测场景设计
+      * 压测目标设定
+      * 压测数据准备
+      * 压测执行也调整
+      * 压测报告与复盘 
+    * 性能调优
+      * JVM性能调优 
+      * MySQL性能调优
+      * 中间件架构性能调优
+      * LINUX内核调优
+      * 容器云环境调优
+    * ServiceMesh架构
+      * Istio
+      * 从ServiceMesh到云原生 
   * 项目难点
   * 项目问题
   * 项目改进
