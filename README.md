@@ -264,10 +264,6 @@
   * Nginx性能调优专题
   * [Redis性能调优专题](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
 # [7 分布式框架专题](https://github.com/stevenli91748/Distributed-System/tree/master/Interview)
-  * NGINX专题---在工业级架构中，Nginx仍然是非常流行和常用的软件
-  * lvs + keepalive专题---它们仍然是在工业级架构中使用的常见软件
-  
-  * Elasticsearch
   * 分布式理论
     * 分布式架构演进
       * 单体架构
@@ -279,7 +275,19 @@
       * Paxos算法
       * zab协议
       * raft协议
-  * ELK分布式日志专题
+  * 分布式负载均衡
+    * 负载均衡算法
+      * 简单随机算法
+      * 权重随机算法
+      * 简单轮询算法  
+      * 权重轮询算法  
+      * 平滑加权轮询算法  
+      * 一致性Hash算法  
+      * 最小活跃算法  
+    * NGINX专题---在工业级架构中，Nginx仍然是非常流行和常用的软件
+    * lvs + keepalive专题---它们仍然是在工业级架构中使用的常见软件
+    * Spring Cloud Ribbon负载均衡专题
+    * Spring Cloud Feign/openfeign负载均衡专题
   * 分布式RPC调用
     * 手写模拟RPC框架
     * Dubbo分布式高性能框架专题
@@ -329,7 +337,28 @@
     * RabbitMQ专题
     * RocketMQ专题
     * Kafka专题---最多人在工业级使用的分布式消息总线是 Apache Kafka
+    * 消息队列对比
+      *  
     * Shardingsphere专题
+  * 分布式定时任务
+    * quartz
+    * elastic-job
+    * 利用Zookeeper实现分布式定时任务 
+  * 分布式日志搜索系统
+    * elasticsearch
+    * 日志展示
+      * Kibana
+    * 日志抽取
+      * filebeat
+      * packetbeat
+      * logstash
+      * metricbean 
+    * 数据同步方案
+      * logstash-input-jdbc
+      * go-mysql-elasticsearch
+      * elasticsearch-jdbc
+      * apache-NIFI
+      * Canal   
   * 分布式服务总线专题
     * Kafka专题---最多人在工业级使用的分布式服务总线是 Kafka
   * 分布式服务监控
