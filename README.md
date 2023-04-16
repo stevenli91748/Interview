@@ -1,16 +1,8 @@
 # Interview
 
 
-<details>
-<summary>Translations:</summary>
 
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- `this`
-</details>
-
+图灵 java架构师路线图
 
 https://www.processon.com/embed/617b81ebf346fb01b918d499
 
