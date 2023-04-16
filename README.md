@@ -120,7 +120,7 @@ https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0
 * [模拟面试](https://www.youtube.com/channel/UCICZmHKT9-lmsXIlFTW_9Bg/videos)
 
 
-## 项目实战
+## 图灵项目实战
 * [图灵商城架构实战---基础版 没有三高架构设计，没有调优，没有分布式 微服务功能](https://www.bilibili.com/video/BV1Zy4y1p7zF/?spm_id_from=333.337.search-card.all.click)
 * []()
 
