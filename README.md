@@ -625,6 +625,9 @@
   * [面试准备目录](https://blog.csdn.net/nakiri_arisu/article/details/79475676)
   
   
+  
+  
+  
   * [互联网公司的面试官是如何360°无死角考察候选人的？（上篇](https://mp.weixin.qq.com/s/vhP-2Jrd0Ow2wOqImavrIQ)
   * [互联网公司面试官是如何360°无死角考察候选人的？（下篇）](https://mp.weixin.qq.com/s/_NLRJeM1o_QxtsOxmeSTNA)
   * [记一位朋友斩获BAT技术专家Offer的面试经历--很有参考价值](https://mp.weixin.qq.com/s/vhP-2Jrd0Ow2wOqImavrIQ)
