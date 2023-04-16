@@ -102,6 +102,8 @@ https://www.processon.com/embed/617b81ebf346fb01b918d499
 * [MySQL程序员面试笔试宝典 2019](https://weread.qq.com/web/reader/c2c32f7071f18924c2c7bff)
 * [Offer来了： JAVA面试核心知识(原理篇) 2020](https://weread.qq.com/web/reader/d0c3212071a74c21d0c04fd)
 * [Offer来了： JAVA面试核心知识(框架篇) 2020](https://weread.qq.com/web/reader/0473295071df008204747ae)
+* [一线互联网大厂Java核心面试题库](https://gitee.com/minfei123/Java-mianshi-note)
+
 
 # 系统学习Java体系
 * [Java面试架构系统必考点---非常好，系统讲解Java必考点，可以此为架构体系系统学习Java](https://www.youtube.com/playlist?list=PL5d0qARooeQjH9JkFJzSnSaIdhIkJR5Lq)
