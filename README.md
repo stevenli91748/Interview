@@ -2,10 +2,12 @@
 
 
 
-图灵 java架构师路线图
+图灵 P6 java架构师路线图
 
 https://www.processon.com/embed/617b81ebf346fb01b918d499
 
+图灵 java  P7 架构师路线图 
+https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0
 
 
 #  后端工程师的要求
@@ -115,7 +117,10 @@ https://www.processon.com/embed/617b81ebf346fb01b918d499
 * [亚马逊 Amazon 模拟面试】北美程序员 找工作 technical round](https://www.youtube.com/watch?v=sxWf3woUGR8)
 * [【彭博社 Bloomberg 开花堡 模拟面试】北美程序员 找工作 technical round](https://www.youtube.com/watch?v=Qk0mTmVrJg8&t=115s)
 * [模拟面试](https://www.youtube.com/channel/UCICZmHKT9-lmsXIlFTW_9Bg/videos)
-* []()
+
+
+## 项目实战
+* [图灵商城架构实战---基础版 没有三高架构设计，没有调优，没有分布式 微服务功能](https://www.bilibili.com/video/BV1Zy4y1p7zF/?spm_id_from=333.337.search-card.all.click)
 * []()
 
 
