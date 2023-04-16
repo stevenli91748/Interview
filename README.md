@@ -526,15 +526,38 @@
       * 压测执行也调整
       * 压测报告与复盘 
     * 性能调优
-      * JVM性能调优 
+      * JVM性能调优
+        * 核心JVM参数调优
+        * 垃圾收集器参数调优
+        * 内存占用调优
+        * 堆外内存调优  
       * MySQL性能调优
+        * 慢SQL调优
+        * 索引调优
+        * MySQL核心参数调优
+        * 部署架构优化 
       * 中间件架构性能调优
+        * Redis核心参数调优
+        * netty核心参数调优
+        * Zookeeper 核心参数调优
+        * Spring Cloud Alibaba参数全链路调优
+        * Tomcat核心参数调优
+        * 各种连接池与线程池参数调优
       * LINUX内核调优
+        * CPU/内存/网络参数调优
+        * Swap/ OS Cache调优
+        * 文件句柄数调优
+        * 配合中间件调优内核参数 
       * 容器云环境调优
+        * 境像容量调优
+        * Docker网络调优
+        * 容器编排速度优化
+        * K8S部署优化 
     * ServiceMesh架构
       * Istio
       * 从ServiceMesh到云原生 
   * 项目难点
+    *  
   * 项目问题
   * 项目改进
   * [系统设计面试](https://github.com/stevenli91748/System-Design/blob/master/Interview/README.md)
