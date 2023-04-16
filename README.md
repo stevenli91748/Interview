@@ -2,7 +2,7 @@
 
 
 
-图灵 P6 java架构师路线图
+图灵 java架构师路线图 ( P5 P6 P7)
 
 https://www.processon.com/embed/617b81ebf346fb01b918d499
 
