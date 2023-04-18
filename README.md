@@ -279,6 +279,8 @@ https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0
       * Paxos算法
       * zab协议
       * raft协议
+  * 分布式限流
+    * [手写四种分布式限流算法](https://www.bilibili.com/video/BV19K411D7Rd/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
   * 分布式负载均衡
     * 负载均衡算法
       * 简单随机算法
