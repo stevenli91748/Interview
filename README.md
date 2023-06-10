@@ -178,17 +178,31 @@ https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0
 
 ---
 
+# [0 数据结构和算法 ](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)  
 # 1 基础知识
   * 计算机基础知识
     * 计算机组成原理
     * [操作系统](https://github.com/stevenli91748/operation-system/blob/master/interview/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%9D%A2%E8%AF%95%E7%9F%A5%E8%AF%86%E7%82%B9.md)
+      * Windows
+      * [Linux](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)       
     * [计算机网络](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
-    * 编译原理
   * 单体应用基础知识
-    * [面向对象OOD面试](https://github.com/stevenli91748/Software-Architecture-Design/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1---OOD/OOD%20interview)
+    * [面向对象OOD面试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Object%20oriented/interview/README.md)
       * UML
       * [设计模式面试](https://github.com/stevenli91748/Design-Patterns/blob/master/Interview/README.md) 
     * [java ](https://github.com/stevenli91748/JAVA-Architecture/tree/master/Interview)
+    * 容器与代理
+      * Docker
+      * Kubernetes
+      * Tomcat
+      * Jetty
+      * Nginx
+      * Envoy
+      * OpenResty
+      * Kong
+    * CI/CD  
+      * Jenkins 
+    * DEVOPS
     * 常用工具集
       * 团队协作工具
         * Maven
@@ -228,21 +242,7 @@ https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0
       * 文档管理工具
         * javaDoc
         * Swagger 
-    * 并发线程
-    * [Linux](https://github.com/stevenli91748/Linux/blob/master/Interview/README.md)      
-    * 容器与代理
-      * Docker
-      * Kubernetes
-      * Tomcat
-      * Jetty
-      * Nginx
-      * Envoy
-      * OpenResty
-      * Kong
-    * CI/CD  
-      * Jenkins 
-    * DEVOPS
-# [2 数据结构和算法 ](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)  
+# 2
 # [3 Database 专题](https://github.com/stevenli91748/Database/blob/master/Interview/README.md)   
 # 4 源码框架专题
   * JDK源码
