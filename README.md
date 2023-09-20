@@ -110,7 +110,7 @@ https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0
 
 # 系统学习Java体系
 * [Java面试架构系统必考点---非常好，系统讲解Java必考点，可以此为架构体系系统学习Java](https://www.youtube.com/playlist?list=PL5d0qARooeQjH9JkFJzSnSaIdhIkJR5Lq)
-
+* [Techie名师小课堂](https://www.techielearning.com/library)
 
 # 公司模拟面试视频
 * [分享程序员学习资源2023: 免费编程课, 算法, 高效刷题, 系统设计 ](https://www.youtube.com/watch?v=-9HapR9jct0)
