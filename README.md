@@ -108,6 +108,10 @@ https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0
 * [一线互联网大厂Java核心面试题库](https://gitee.com/minfei123/Java-mianshi-note)
 
 
+# chatGPT生成简历
+  * [针对岗位优化简历，ChatGPT三步帮你搞定](https://www.youtube.com/watch?v=OZgSlyGH6Vo)
+
+
 # 系统学习Java体系
 * [Java面试架构系统必考点---非常好，系统讲解Java必考点，可以此为架构体系系统学习Java](https://www.youtube.com/playlist?list=PL5d0qARooeQjH9JkFJzSnSaIdhIkJR5Lq)
 * [Techie名师小课堂](https://www.techielearning.com/library)
