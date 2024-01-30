@@ -134,6 +134,11 @@ https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0
 # 找工作网站
  
 * [Glassdoor](https://www.glassdoor.com/Salaries/index.htm)
+* [美国华人必备的找工作网站/APP推荐](https://www.tyangniao.com/850.html)
+  * [LinkedIn](https://www.linkedin.com/)
+  * [Glassdoor](https://www.glassdoor.com/index.htm)
+  * [Monster](https://www.monster.com/)
+  * [Indeed]()
 
 [resume的格式](https://github.com/stevenli91748/Interview/blob/master/resume%E7%9A%84%E6%A0%BC%E5%BC%8F.md)|[精益技术简历之道——改善技术简历的47条原则](https://www.kancloud.cn/digest/lean-technical-resume/62711)|
 ---|---|
