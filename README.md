@@ -106,6 +106,7 @@ https://www.processon.com/view/link/5eccea8fe0b34d5f263038f0
 * [Offer来了： JAVA面试核心知识(原理篇) 2020](https://weread.qq.com/web/reader/d0c3212071a74c21d0c04fd)
 * [Offer来了： JAVA面试核心知识(框架篇) 2020](https://weread.qq.com/web/reader/0473295071df008204747ae)
 * [一线互联网大厂Java核心面试题库](https://gitee.com/minfei123/Java-mianshi-note)
+* [面试题库精选---重要](https://www.chaojimake.cn/index.html)
 
 
 # chatGPT生成简历
