@@ -1,3 +1,7 @@
+
+# 考证书
+* [美国 Software Professional Certification - Level 2](https://www.computer.org/product/education/software-professional-certification-level-2?source=gpt2b&oppref=gAAAAABqQzgcBKobGbaiFU0dQGyb_jEnTcbNa1R1YElfNSTGNed2cZB5ts7ub6TzLY2lwoZUMh1qKG-xWCdg-O4M-_dhnbML8VBNbHgsXmqxD1N86-1LYx4w&olref=gAAAAABqQzgcl5NBd_VZBR4ZWYaWKyLgKM72ZkeBQeu3JX2Jslic7MUdlAtABsG5RDsVvjkeoQvIR20t0lGKzhHgpNQRBATHAaqNfWEH899nwPbNQfc89W3J-tkVRcR97Y_wgTH7ctRnqZynFJrXvYTFJ-cHljI3YAw)
+
 # Interview
 
 [2026年我们的职场转机？让我们谈谈真实的求职、真实的职场现状](https://www.youtube.com/watch?v=-frOkoWHhtI)
